@@ -10,6 +10,6 @@ Includes:
 
 Pictures:
 <div style= display = "flex">
-<img src= "/Pictures/SheepClientScreenshot.PNG" alt= "image 1" width 50% />
+<img src= "/Coding/lurkServerandClientImage.PNG" alt= "image 1" width 50% />
 
 </div>
